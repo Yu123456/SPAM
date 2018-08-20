@@ -11,3 +11,6 @@ SPAM (Speed Up PAM) 是一种加速 K-medoids 聚类算法，由 余冬华、郭
 
 ### Contacts
 关于程序有任何问题，请联系 donghuayu@hit.edu.cn and/or yliu76@hit.edu.cn
+
+### Copyright
+版权所有，本代码仅限于学术研究，严禁它用！！
